@@ -1,6 +1,6 @@
-# (TODO: your game's title)
+# snake crash
 
-Author: Yifei Sun)
+Author: Yifei Sun
 
 Screen Shot:
 
